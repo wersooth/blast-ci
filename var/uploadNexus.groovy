@@ -42,11 +42,6 @@ def call(Map config) {
         state = 15  
         return state
     }
-
-
     
-
-
-
     return state
 }
